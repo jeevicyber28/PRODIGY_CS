@@ -1,0 +1,279 @@
+[2026-04-17 21:46:28] Key pressed: c
+[2026-04-17 21:46:28] Key pressed: v
+[2026-04-17 21:46:28] Key pressed: v
+[2026-04-17 21:46:28] Key pressed: c
+[2026-04-17 21:46:29] Key pressed: v
+[2026-04-17 21:46:29] Key pressed: c
+[2026-04-17 21:46:29] Key pressed: v
+[2026-04-17 21:46:29] Key pressed: c
+[2026-04-17 21:46:29] Key pressed: v
+[2026-04-17 21:46:30] Key pressed: c
+[2026-04-17 21:46:30] Key pressed: v
+[2026-04-17 21:46:30] Key pressed: b
+[2026-04-17 21:46:30] Key pressed: f
+[2026-04-17 21:46:30] Key pressed: b
+[2026-04-17 21:46:30] Key pressed: f
+[2026-04-17 21:46:30] Key pressed: g
+[2026-04-17 21:46:30] Key pressed: f
+[2026-04-17 21:46:30] Key pressed: g
+[2026-04-17 21:46:38] Special key pressed: backspace
+[2026-04-17 21:46:40] Special key pressed: ctrl_l
+[2026-04-17 21:46:40] Key pressed: 
+
+==================================================
+Keylogger Session Started: 2026-04-17 21:46:46
+==================================================
+
+[2026-04-17 21:46:48] Special key pressed: space
+[2026-04-17 21:46:48] Special key pressed: space
+[2026-04-17 21:46:48] Special key pressed: space
+[2026-04-17 21:46:48] Special key pressed: space
+[2026-04-17 21:46:58] Special key pressed: down
+[2026-04-17 21:46:58] Special key pressed: down
+[2026-04-17 21:46:59] Special key pressed: backspace
+[2026-04-17 21:46:59] Special key pressed: backspace
+[2026-04-17 21:47:01] Special key pressed: down
+[2026-04-17 21:47:02] Special key pressed: up
+[2026-04-17 21:47:06] Special key pressed: ctrl_l
+[2026-04-17 21:47:06] Key pressed: 
+
+==================================================
+Keylogger Session Started: 2026-04-18 20:56:00
+==================================================
+
+[2026-04-18 20:56:00] Key pressed: e
+[2026-04-18 20:56:01] Key pressed: e
+[2026-04-18 20:56:01] Key pressed: e
+[2026-04-18 20:56:01] Key pressed: e
+[2026-04-18 20:56:02] Key pressed: h
+[2026-04-18 20:56:02] Key pressed: e
+[2026-04-18 20:56:02] Key pressed: f
+[2026-04-18 20:56:02] Key pressed: h
+[2026-04-18 20:56:02] Key pressed: y
+[2026-04-18 20:56:02] Key pressed: v
+[2026-04-18 20:56:02] Key pressed: f
+[2026-04-18 20:56:02] Key pressed: e
+[2026-04-18 20:56:02] Key pressed: f
+[2026-04-18 20:56:02] Key pressed: e
+[2026-04-18 20:56:03] Key pressed: f
+[2026-04-18 20:56:03] Key pressed: h
+[2026-04-18 20:56:03] Key pressed: e
+[2026-04-18 20:56:03] Key pressed: f
+[2026-04-18 20:56:03] Key pressed: h
+[2026-04-18 20:56:03] Key pressed: e
+[2026-04-18 20:56:03] Key pressed: b
+[2026-04-18 20:56:03] Key pressed: f
+[2026-04-18 20:56:03] Key pressed: e
+[2026-04-18 20:56:03] Key pressed: f
+[2026-04-18 20:56:03] Key pressed: e
+[2026-04-18 20:56:03] Key pressed: g
+[2026-04-18 20:56:03] Key pressed: h
+[2026-04-18 20:56:03] Key pressed: e
+[2026-04-18 20:56:03] Key pressed: g
+[2026-04-18 20:56:03] Key pressed: u
+[2026-04-18 20:56:04] Key pressed: e
+[2026-04-18 20:56:04] Key pressed: f
+[2026-04-18 20:56:04] Key pressed: e
+[2026-04-18 20:56:04] Key pressed: e
+[2026-04-18 20:56:04] Key pressed: e
+[2026-04-18 20:56:04] Key pressed: e
+[2026-04-18 20:56:05] Key pressed: d
+[2026-04-18 20:56:06] Key pressed: e
+[2026-04-18 20:56:06] Key pressed: d
+[2026-04-18 20:56:06] Key pressed: e
+[2026-04-18 20:56:07] Key pressed: e
+[2026-04-18 20:56:07] Key pressed: f
+[2026-04-18 20:56:07] Key pressed: e
+[2026-04-18 20:56:07] Key pressed: k
+[2026-04-18 20:56:07] Key pressed: n
+[2026-04-18 20:56:07] Key pressed: f
+[2026-04-18 20:56:07] Key pressed: e
+[2026-04-18 20:56:07] Key pressed: n
+[2026-04-18 20:56:07] Key pressed: f
+[2026-04-18 20:56:07] Key pressed: e
+[2026-04-18 20:56:08] Key pressed: h
+[2026-04-18 20:56:08] Key pressed: f
+[2026-04-18 20:56:08] Key pressed: e
+[2026-04-18 20:56:08] Key pressed: i
+[2026-04-18 20:56:08] Key pressed: f
+[2026-04-18 20:56:08] Key pressed: h
+[2026-04-18 20:56:08] Key pressed: e
+[2026-04-18 20:56:08] Key pressed: h
+[2026-04-18 20:56:08] Key pressed: f
+[2026-04-18 20:56:08] Key pressed: e
+[2026-04-18 20:56:08] Key pressed: h
+[2026-04-18 20:56:08] Key pressed: f
+[2026-04-18 20:56:08] Key pressed: i
+[2026-04-18 20:56:08] Key pressed: e
+[2026-04-18 20:56:08] Key pressed: n
+[2026-04-18 20:56:09] Key pressed: e
+[2026-04-18 20:56:19] Special key pressed: ctrl_l
+[2026-04-18 20:56:19] Key pressed: 
+
+==================================================
+Keylogger Session Started: 2026-04-18 21:10:32
+==================================================
+
+[2026-04-18 21:10:32] Key pressed: 
+
+==================================================
+Keylogger Session Started: 2026-04-18 21:11:07
+==================================================
+
+[2026-04-18 21:11:10] Key pressed: r
+[2026-04-18 21:11:12] Key pressed: r
+[2026-04-18 21:11:12] Key pressed: r
+[2026-04-18 21:11:13] Key pressed: j
+[2026-04-18 21:11:13] Key pressed: p
+[2026-04-18 21:11:14] Key pressed: s
+[2026-04-18 21:11:14] Key pressed: w
+[2026-04-18 21:11:15] Key pressed: q
+[2026-04-18 21:11:15] Key pressed: n
+[2026-04-18 21:11:15] Key pressed: k
+[2026-04-18 21:11:16] Key pressed: d
+[2026-04-18 21:11:16] Key pressed: h
+[2026-04-18 21:11:17] Key pressed: d
+[2026-04-18 21:11:17] Key pressed: s
+[2026-04-18 21:11:17] Key pressed: d
+[2026-04-18 21:11:17] Key pressed: a
+[2026-04-18 21:11:17] Key pressed: p
+[2026-04-18 21:11:18] Key pressed: 2
+[2026-04-18 21:11:18] Key pressed: 3
+[2026-04-18 21:11:18] Key pressed: 5
+[2026-04-18 21:11:19] Key pressed: 4
+[2026-04-18 21:11:19] Key pressed: 8
+[2026-04-18 21:11:19] Key pressed: 4
+[2026-04-18 21:11:19] Key pressed: 0
+[2026-04-18 21:11:19] Key pressed: 2
+[2026-04-18 21:11:20] Key pressed: -
+[2026-04-18 21:11:20] Key pressed: 2
+[2026-04-18 21:11:20] Key pressed: 8
+[2026-04-18 21:11:20] Key pressed: g
+[2026-04-18 21:11:21] Key pressed: d
+[2026-04-18 21:11:21] Key pressed: b
+[2026-04-18 21:11:21] Key pressed: d
+[2026-04-18 21:11:21] Key pressed: k
+[2026-04-18 21:11:21] Key pressed: d
+[2026-04-18 21:11:21] Key pressed: u
+[2026-04-18 21:11:22] Key pressed: e
+[2026-04-18 21:11:22] Key pressed: e
+[2026-04-18 21:11:40] Special key pressed: ctrl_l
+[2026-04-18 21:11:41] Key pressed: 
+[2026-04-18 21:11:43] Special key pressed: enter
+[2026-04-18 21:11:52] Special key pressed: print_screen
+[2026-04-18 21:12:00] Special key pressed: print_screen
+[2026-04-18 21:12:05] Special key pressed: ctrl_l
+[2026-04-18 21:12:05] Key pressed: 
+[2026-04-18 21:12:06] Special key pressed: alt_l
+[2026-04-18 21:12:06] Special key pressed: tab
+[2026-04-18 21:12:08] Special key pressed: ctrl_l
+[2026-04-18 21:12:08] Key pressed: 
+[2026-04-18 21:12:10] Special key pressed: ctrl_l
+[2026-04-18 21:12:10] Key pressed: 
+[2026-04-18 21:12:11] Key pressed: t
+[2026-04-18 21:12:11] Key pressed: a
+[2026-04-18 21:12:11] Key pressed: s
+[2026-04-18 21:12:12] Key pressed: k
+[2026-04-18 21:12:12] Special key pressed: space
+[2026-04-18 21:12:12] Key pressed: 4
+[2026-04-18 21:12:12] Special key pressed: enter
+[2026-04-18 21:12:18] Key pressed: o
+[2026-04-18 21:12:20] Key pressed: h
+[2026-04-18 21:12:20] Key pressed: h
+[2026-04-18 21:12:20] Special key pressed: space
+[2026-04-18 21:12:20] Key pressed: o
+[2026-04-18 21:12:21] Key pressed: k
+[2026-04-18 21:12:21] Special key pressed: space
+[2026-04-18 21:12:22] Key pressed: w
+[2026-04-18 21:12:22] Key pressed: i
+[2026-04-18 21:12:22] Key pressed: s
+[2026-04-18 21:12:22] Key pressed: h
+[2026-04-18 21:12:23] Special key pressed: space
+[2026-04-18 21:12:23] Key pressed: p
+[2026-04-18 21:12:23] Key pressed: a
+[2026-04-18 21:12:23] Key pressed: n
+[2026-04-18 21:12:23] Key pressed: n
+[2026-04-18 21:12:24] Key pressed: e
+[2026-04-18 21:12:24] Key pressed: n
+[2026-04-18 21:12:24] Key pressed: u
+[2026-04-18 21:12:24] Special key pressed: space
+[2026-04-18 21:12:25] Special key pressed: backspace
+[2026-04-18 21:12:26] Special key pressed: backspace
+[2026-04-18 21:12:26] Special key pressed: backspace
+[2026-04-18 21:12:26] Special key pressed: backspace
+[2026-04-18 21:12:26] Special key pressed: backspace
+[2026-04-18 21:12:26] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Special key pressed: backspace
+[2026-04-18 21:12:27] Key pressed: a
+[2026-04-18 21:12:28] Key pressed: d
+[2026-04-18 21:12:28] Key pressed: v
+[2026-04-18 21:12:28] Key pressed: a
+[2026-04-18 21:12:28] Key pressed: n
+[2026-04-18 21:12:29] Key pressed: c
+[2026-04-18 21:12:29] Key pressed: e
+[2026-04-18 21:12:29] Special key pressed: space
+[2026-04-18 21:12:29] Key pressed: w
+[2026-04-18 21:12:29] Key pressed: u
+[2026-04-18 21:12:30] Key pressed: s
+[2026-04-18 21:12:30] Key pressed: h
+[2026-04-18 21:12:30] Key pressed: e
+[2026-04-18 21:12:30] Key pressed: s
+[2026-04-18 21:12:30] Special key pressed: enter
+[2026-04-18 21:13:04] Key pressed: h
+[2026-04-18 21:13:04] Key pressed: m
+[2026-04-18 21:13:04] Key pressed: m
+[2026-04-18 21:13:04] Special key pressed: space
+[2026-04-18 21:13:05] Key pressed: s
+[2026-04-18 21:13:05] Key pressed: e
+[2026-04-18 21:13:05] Key pressed: n
+[2026-04-18 21:13:05] Key pressed: d
+[2026-04-18 21:13:05] Special key pressed: space
+[2026-04-18 21:13:06] Key pressed: i
+[2026-04-18 21:13:06] Key pressed: t
+[2026-04-18 21:13:06] Special key pressed: enter
+[2026-04-18 21:13:21] Special key pressed: ctrl_l
+[2026-04-18 21:13:21] Key pressed: 
+[2026-04-18 21:13:22] Special key pressed: enter
+[2026-04-18 21:13:38] Special key pressed: caps_lock
+[2026-04-18 21:13:38] Key pressed: p
+[2026-04-18 21:13:38] Key pressed: r
+[2026-04-18 21:13:38] Key pressed: o
+[2026-04-18 21:13:39] Key pressed: d
+[2026-04-18 21:13:39] Key pressed: y
+[2026-04-18 21:13:40] Special key pressed: backspace
+[2026-04-18 21:13:41] Key pressed: o
+[2026-04-18 21:13:41] Special key pressed: backspace
+[2026-04-18 21:13:42] Key pressed: i
+[2026-04-18 21:13:42] Key pressed: g
+[2026-04-18 21:13:42] Key pressed: y
+[2026-04-18 21:13:43] Special key pressed: shift_r
+[2026-04-18 21:13:43] Key pressed: _
+[2026-04-18 21:13:43] Key pressed: c
+[2026-04-18 21:13:44] Key pressed: s
+[2026-04-18 21:13:44] Special key pressed: shift_r
+[2026-04-18 21:13:44] Key pressed: _
+[2026-04-18 21:13:44] Key pressed: 0
+[2026-04-18 21:13:45] Key pressed: 4
+[2026-04-18 21:13:46] Special key pressed: enter
+[2026-04-18 21:14:00] Key pressed: b
+[2026-04-18 21:14:00] Special key pressed: shift
+[2026-04-18 21:14:01] Key pressed: H
+[2026-04-18 21:14:01] Key pressed: A
+[2026-04-18 21:14:01] Key pressed: R
+[2026-04-18 21:14:01] Key pressed: A
+[2026-04-18 21:14:02] Key pressed: N
+[2026-04-18 21:14:02] Key pressed: I
+[2026-04-18 21:14:02] Key pressed: 1
+[2026-04-18 21:14:03] Key pressed: 9
+[2026-04-18 21:14:03] Key pressed: 0
+[2026-04-18 21:14:04] Key pressed: 5
+[2026-04-18 21:14:04] Key pressed: 2
+[2026-04-18 21:14:05] Key pressed: 0
+[2026-04-18 21:14:05] Key pressed: 0
+[2026-04-18 21:14:05] Key pressed: 7
